@@ -47,6 +47,34 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/BENLK404/lk-fondation" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-FONDATION&fontSize=35&fontColor=ffffff&desc=Services%20Informatiques%20et%20Logiciels%20Professionnels&descAlignY=65&stroke=2563EB&strokeWidth=2" width="100%" alt="LK-FONDATION Banner"/>
+  </a>
+  <p align="left">
+    <i>Plateforme d'entreprise et marque délivrant des solutions technologiques sur mesure.</i>
+    <br/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Enterprise-B22222?style=flat-square" />
+  </p>
+</div>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/BENLK404/loky" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=Loky&fontSize=35&fontColor=ffffff&desc=Application%20de%20Bureau%20pour%20la%20Gestion%20Scolaire&descAlignY=65&stroke=4CAF50&strokeWidth=2" width="100%" alt="Loky Banner"/>
+  </a>
+  <p align="left">
+    <i>Système de bureau avancé pour la gestion scolaire avec rapports et exports multiformats (PDF, Excel).</i>
+    <br/>
+    <img src="https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Desktop-Application-blueviolet?style=flat-square" />
+  </p>
+</div>
+<br/>
+
+<div align="center">
   <a href="https://github.com/BENLK404/koritech" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=KoriTech%20(Proxima)&fontSize=35&fontColor=ffffff&desc=Solution%20SaaS%20complète%20de%20Gestion%20RH&descAlignY=65&stroke=38B2AC&strokeWidth=2" width="100%" alt="KoriTech Banner"/>
   </a>
@@ -121,45 +149,5 @@
 <table border="0" align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=BENLK404&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophées" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=BENLK404&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=9ca3af&icon_color=38B2AC" alt="Stats Globales" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-  <h3>💼 Collaborons ensemble</h3>
-  <p>Vous avez un projet d'application mobile, une plateforme web complexe ou besoin d'une API robuste ?<br/>
-  Je suis disponible pour des missions en freelance (télétravail ou sur site au Togo).</p>
-  
-  <br/>
-  
-  <table border="0">
-    <tr>
-      <td align="center">👉 <strong>Services :</strong> MVP pour Startups • Back-offices de gestion • Applications Mobiles Cross-Platform • Audit Technique</td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <a href="mailto:lkinglben@gmail.com">
-    <img src="https://img.shields.io/badge/Discuter_de_votre_projet-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
-  </a>
-  <a href="https://benlk404.dev">
-    <img src="https://img.shields.io/badge/Voir_le_Portfolio_Complet-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Contact" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BENLK404&label=Profil+Visité&color=38B2AC&style=flat-square" alt="Vues du Profil" />
-</div>
+      <img src="https://github-profile-trophy.vercel.app/?username=BENLK404&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Troph
+      
