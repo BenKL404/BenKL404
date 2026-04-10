@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://github.com/BENLK404/lk-facture" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-FACTURE&fontSize=35&fontColor=ffffff&desc=Gestion%20de%20Facturation%20et%20Devis&descAlignY=65&stroke=4CAF50&strokeWidth=2" width="100%" alt="LK-FACTURE Banner"/>
+    <img src="./assets/lkfacture.png" width="100%" alt="LK-FACTURE UI Mockup"/>
   </a>
   <p align="left">
     <i>Application complète et automatisée pour la création, le suivi des factures et l'édition de devis.</i>
@@ -90,7 +90,7 @@
 
 <div align="center">
   <a href="https://github.com/BENLK404/lk-immo" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-IMMO&fontSize=35&fontColor=ffffff&desc=Plateforme%20de%20Gestion%20Immobilière&descAlignY=65&stroke=9C27B0&strokeWidth=2" width="100%" alt="LK-IMMO Banner"/>
+    <img src="./assets/lkimmo.png" width="100%" alt="LK-IMMO Premium UI Mockup"/>
   </a>
   <p align="left">
     <i>Outil moderne pour la gestion des propriétés, des locataires, des loyers et des contrats de bail.</i>
@@ -117,7 +117,7 @@
 
 <div align="center">
   <a href="https://github.com/BENLK404/koritech" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=KoriTech%20(Proxima)&fontSize=35&fontColor=ffffff&desc=Solution%20SaaS%20complète%20de%20Gestion%20RH&descAlignY=65&stroke=38B2AC&strokeWidth=2" width="100%" alt="KoriTech Banner"/>
+    <img src="./assets/koritech.png" width="100%" alt="KoriTech ERP Mockup"/>
   </a>
   <p align="left">
     <i>Un ERP RH puissant pour la gestion de la paie, des contrats et des employés.</i>
@@ -132,7 +132,7 @@
 
 <div align="center">
   <a href="https://github.com/BENLK404/urgencevie" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=UrgenceVie&fontSize=35&fontColor=ffffff&desc=Plateforme%20Mobile%20de%20Don%20de%20Sang&descAlignY=65&stroke=f44336&strokeWidth=2" width="100%" alt="UrgenceVie Banner"/>
+    <img src="./assets/urgencevie.png" width="100%" alt="UrgenceVie Mobile Mockup"/>
   </a>
   <p align="left">
     <i>Application mobile vitale connectant les donneurs de sang aux centres hospitaliers du Togo.</i>
