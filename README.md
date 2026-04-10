@@ -43,8 +43,77 @@
 <hr/>
 <br/>
 
-<h3>🚀 Projets en Vedette</h3>
+<h3>🚀 Projets en Vedette & Écosystème LK</h3>
 <br/>
+
+<div align="center">
+  <a href="https://github.com/BENLK404/lk-fondation" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-FONDATION&fontSize=35&fontColor=ffffff&desc=Services%20Informatiques%20et%20Logiciels%20Professionnels&descAlignY=65&stroke=2563EB&strokeWidth=2" width="100%" alt="LK-FONDATION Banner"/>
+  </a>
+  <p align="left">
+    <i>Plateforme d'entreprise et marque délivrant des solutions technologiques sur mesure.</i>
+    <br/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Enterprise-B22222?style=flat-square" />
+  </p>
+</div>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/BENLK404/lk-facture" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-FACTURE&fontSize=35&fontColor=ffffff&desc=Gestion%20de%20Facturation%20et%20Devis&descAlignY=65&stroke=4CAF50&strokeWidth=2" width="100%" alt="LK-FACTURE Banner"/>
+  </a>
+  <p align="left">
+    <i>Application complète et automatisée pour la création, le suivi des factures et l'édition de devis.</i>
+    <br/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  </p>
+</div>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/BENLK404/lk-seller" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-SELLER&fontSize=35&fontColor=ffffff&desc=Solution%20de%20Point%20de%20Vente%20(POS)%20et%20Stocks&descAlignY=65&stroke=FF9800&strokeWidth=2" width="100%" alt="LK-SELLER Banner"/>
+  </a>
+  <p align="left">
+    <i>Système de gestion de commerce omnicanal, suivi des ventes et inventaire en temps réel.</i>
+    <br/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  </p>
+</div>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/BENLK404/lk-immo" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-IMMO&fontSize=35&fontColor=ffffff&desc=Plateforme%20de%20Gestion%20Immobilière&descAlignY=65&stroke=9C27B0&strokeWidth=2" width="100%" alt="LK-IMMO Banner"/>
+  </a>
+  <p align="left">
+    <i>Outil moderne pour la gestion des propriétés, des locataires, des loyers et des contrats de bail.</i>
+    <br/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  </p>
+</div>
+<br/>
+
+<!-- <div align="center">
+  <a href="https://github.com/BENLK404/lkm-player" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LKM%20Player%20(Musio)&fontSize=35&fontColor=ffffff&desc=Lecteur%20Audio%20Mobile%20Avancé&descAlignY=65&stroke=E91E63&strokeWidth=2" width="100%" alt="LKM Player Banner"/>
+  </a>
+  <p align="left">
+    <i>Lecteur audio mobile professionnel sous Flutter avec extraction de métadonnées et affichage des paroles.</i>
+    <br/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  </p>
+</div>
+<br/> -->
 
 <div align="center">
   <a href="https://github.com/BENLK404/koritech" target="_blank">
@@ -71,22 +140,6 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Bêta-orange?style=flat-square" />
-  </p>
-</div>
-<br/>
-
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=AlloArtisan&fontSize=35&fontColor=ffffff&desc=Annuaire%20Géolocalisé%20des%20Artisans&descAlignY=65&stroke=FF9800&strokeWidth=2" width="100%" alt="AlloArtisan Banner"/>
-  </a>
-  <p align="left">
-    <i>Valorisation du secteur informel au Togo via un annuaire mobile avec portfolios vidéo.</i>
-    <br/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Impact-Social-blue?style=flat-square" />
   </p>
 </div>
 
@@ -112,6 +165,18 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,git,linux,postman,figma&theme=dark" alt="DevOps & Tools" />
   </a>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<h3>🟩 Activité & Contributions GitHub</h3>
+<br/>
+<div align="center">
+  <img src="https://ghchart.rshah.org/40c463/BENLK404" alt="BENLK404's Github Contributions Grid" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BENLK404&theme=radical&hide_border=true&background=0D1117&ring=40c463&fire=40c463&currStreakNum=40c463" alt="GitHub Streak" />
 </div>
 
 <br/>
