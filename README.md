@@ -40,6 +40,28 @@
 </table>
 
 <br/>
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Mon Parcours & Expériences</h3>
+      <ul>
+        <li><strong>Développeur Full-Stack Indépendant (Freelance)</strong><br/><em>Conception et réalisation de plateformes sur mesure, SaaS B2B, applications mobiles et ERP. Gestion de bout en bout (Architecture, Dev, CI/CD).</em></li>
+        <li><strong>Créateur de Solutions Métiers</strong><br/><em>Développement d'écosystèmes complets (LK-IMMO, LK-FACTURE, KoriTech, et de système d'information à fort impact).</em></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Méthodologie & Approche</h3>
+      <ul>
+        <li><strong>Architecture Clean & DDD:</strong> Conception axée sur le domaine et séparation des responsabilités.</li>
+        <li><strong>DevOps & CI/CD:</strong> Déploiements fluides et sécurisés via GitHub Actions & VPS Linux.</li>
+        <li><strong>Agilité & MVP:</strong> Livraisons itératives pour valider rapidement les concepts et recueillir du feedback utilisateur.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
 <hr/>
 <br/>
 
@@ -177,6 +199,13 @@
   <img src="https://ghchart.rshah.org/40c463/BENLK404" alt="BENLK404's Github Contributions Grid" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BENLK404&theme=radical&hide_border=true&background=0D1117&ring=40c463&fire=40c463&currStreakNum=40c463" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BENLK404/BENLK404/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BENLK404/BENLK404/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BENLK404/BENLK404/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
