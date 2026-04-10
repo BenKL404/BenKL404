@@ -69,7 +69,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/BENLK404/lk-fondation" target="_blank">
+  <a href="https://github.com/BenKL404/lk-fondation" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-FONDATION&fontSize=35&fontColor=ffffff&desc=Services%20Informatiques%20et%20Logiciels%20Professionnels&descAlignY=65&stroke=2563EB&strokeWidth=2" width="100%" alt="LK-FONDATION Banner"/>
   </a>
   <p align="left">
@@ -83,7 +83,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/BENLK404/lk-facture" target="_blank">
+  <a href="https://github.com/BenKL404/lk-facture" target="_blank">
     <img src="./assets/lkfacture.png" width="100%" alt="LK-FACTURE UI Mockup"/>
   </a>
   <p align="left">
@@ -97,7 +97,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/BENLK404/lk-seller" target="_blank">
+  <a href="https://github.com/BenKL404/lk-seller" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-SELLER&fontSize=35&fontColor=ffffff&desc=Solution%20de%20Point%20de%20Vente%20(POS)%20et%20Stocks&descAlignY=65&stroke=FF9800&strokeWidth=2" width="100%" alt="LK-SELLER Banner"/>
   </a>
   <p align="left">
@@ -111,7 +111,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/BENLK404/lk-immo" target="_blank">
+  <a href="https://github.com/BenKL404/lk-immo" target="_blank">
     <img src="./assets/lkimmo.png" width="100%" alt="LK-IMMO Premium UI Mockup"/>
   </a>
   <p align="left">
@@ -125,7 +125,7 @@
 <br/>
 
 <!-- <div align="center">
-  <a href="https://github.com/BENLK404/lkm-player" target="_blank">
+  <a href="https://github.com/BenKL404/lkm-player" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LKM%20Player%20(Musio)&fontSize=35&fontColor=ffffff&desc=Lecteur%20Audio%20Mobile%20Avancé&descAlignY=65&stroke=E91E63&strokeWidth=2" width="100%" alt="LKM Player Banner"/>
   </a>
   <p align="left">
@@ -138,7 +138,7 @@
 <br/> -->
 
 <div align="center">
-  <a href="https://github.com/BENLK404/koritech" target="_blank">
+  <a href="https://github.com/BenKL404/koritech" target="_blank">
     <img src="./assets/koritech.png" width="100%" alt="KoriTech ERP Mockup"/>
   </a>
   <p align="left">
@@ -153,7 +153,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/BENLK404/urgencevie" target="_blank">
+  <a href="https://github.com/BenKL404/urgencevie" target="_blank">
     <img src="./assets/urgencevie.png" width="100%" alt="UrgenceVie Mobile Mockup"/>
   </a>
   <p align="left">
@@ -196,15 +196,15 @@
 <h3>🟩 Activité & Contributions GitHub</h3>
 <br/>
 <div align="center">
-  <img src="https://ghchart.rshah.org/40c463/BENLK404" alt="BENLK404's Github Contributions Grid" />
+  <img src="https://ghchart.rshah.org/40c463/BenKL404" alt="BenKL404's Github Contributions Grid" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BENLK404&theme=radical&hide_border=true&background=0D1117&ring=40c463&fire=40c463&currStreakNum=40c463" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenKL404&theme=radical&hide_border=true&background=0D1117&ring=40c463&fire=40c463&currStreakNum=40c463" alt="GitHub Streak" />
   <br/>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BENLK404/BENLK404/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BENLK404/BENLK404/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BENLK404/BENLK404/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BenKL404/BenKL404/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BenKL404/BenKL404/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BenKL404/BenKL404/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -215,12 +215,12 @@
 <table border="0" align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=BENLK404&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophées" />
+      <img src="https://github-profile-trophy.vercel.app/?username=BenKL404&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophées" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=BENLK404&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=9ca3af&icon_color=38B2AC" alt="Stats Globales" />
+      <img src="https://github-readme-stats.vercel.app/api?username=BenKL404&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=9ca3af&icon_color=38B2AC" alt="Stats Globales" />
     </td>
   </tr>
 </table>
