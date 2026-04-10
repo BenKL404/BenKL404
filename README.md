@@ -1,85 +1,77 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0f3d6b&height=200&section=header&text=BenKL404&fontSize=70&fontAlignY=40&desc=Software%20Engineer%20|%20Full-Stack%20Architect&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=200&section=header&text=Salut,%20moi%20c'est%20BENLK404%20👋&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&fontColor=ffffff" width="100%" />
 
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=29a050&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Full-Stack+Expert+(Web+%2F+Mobile);Software+Project+Manager;Based+in+Lom%C3%A9%2C+Togo+%F0%9F%87%B9%F0%9F%87%AC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Ingénieur+Logiciel+%7C+Full-Stack;Créateur+de+solutions+sur-mesure;Spécialiste+Web,+Mobile+%26+Backend;Basé+au+Togo+🇹🇬" alt="Typing SVG" />
   </a>
   
-  <br/>
-
-  <img src="https://komarev.com/ghpvc/?username=BenKL404&label=Profile+Views&color=0f3d6b&style=flat-square" alt="Vues du Profil" />
+  <p align="center">
+    <a href="https://benlk404.dev"><img src="https://img.shields.io/badge/Portfolio-benlk404.dev-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/kokou-bernard-kpedzi-b47b2418a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:lkinglben@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me | À propos
+> **🇬🇧** Full-Stack engineer from **Togo**, focused on shipping real products: clean UI, robust architecture, and scalable data.  
+> **🇫🇷** Développeur Full-Stack basé au **Togo**, orienté produit. Je construis des solutions technologiques modernes avec une interface soignée et une architecture backend performante.
 
-**🇬🇧** Software Engineer from **Togo**, specializing in delivering end-to-end digital products. I focus on Clean Architecture, scalable backends, and intuitive mobile experiences.  
-**🇫🇷** Ingénieur Logiciel basé au **Togo**, spécialisé dans la création de produits numériques complets. Je privilégie la Clean Architecture, les backends scalables et une expérience mobile intuitive.
+### 💼 Freelance & Services (LK-FONDATION)
+
+Disponible pour des missions en freelance. Je transforme vos idées en plateformes fiables et esthétiques :
+* **Applications de Gestion & Back-offices** (ERP, CRM, RH)
+* **Développement Mobile Cross-Platform** (Flutter)
+* **Architecture & APIs** (Node.js, Spring Boot, CI/CD)
+* **Design Minimaliste & Moderne** (UI/UX centrée utilisateur)
 
 ---
 
-## 🛠 Technical Ecosystem | Stack Technique
+### 🚀 Projets Phares
+
+| Projet | Description | Technologies |
+| :--- | :--- | :--- |
+| **[KoriTech / Proxima](https://github.com/BENLK404/koritech)** | Solution SaaS complète de gestion des ressources humaines (RH), paie et contrats. | `React` `Node.js` `PostgreSQL` |
+| **[AlloArtisan](https://github.com/BENLK404/alloartisan)** | Annuaire géolocalisé pour les métiers de l'informel au Togo, intégrant des portfolios vidéo. | `Flutter` `Firebase` `Maps API` |
+| **[UrgenceVie](https://github.com/BENLK404/urgencevie)** | Application mobile vitale connectant les donneurs de sang aux hôpitaux. | `Flutter` `Node.js` `MongoDB` |
+| **[LKM Player](https://github.com/BENLK404/lkm-player)** | Lecteur audio mobile premium avec extraction avancée des métadonnées MP3 et paroles. | `Flutter` `Dart` `SQLite` |
+
+---
+
+### 🛠️ Stack Technique
 
 <div align="center">
-
-| **Frontend** | **Backend** | **Mobile** | **DevOps & Cloud** |
-| :--- | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs) | ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript) | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss) | ![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql) | | ![Linux VPS](https://img.shields.io/badge/Linux_VPS-1B1F23?style=flat-square&logo=linux) |
-
-</div>
-
----
-
-## 💼 Featured Projects | Projets Sélectionnés
-
-### 🩸 [UrgenceVie](https://github.com/BenKL404/urgencevie)
-> **Stack: Flutter, Node.js, MongoDB** > Système critique de mise en relation entre donneurs de sang et centres hospitaliers au Togo. Optimisation des flux d'urgence en temps réel.
-
-### 👥 [KoriTech](https://github.com/BenKL404/koritech)
-> **Stack: React, Spring Boot, PostgreSQL** > Solution ERP/RH complète pour la gestion des collaborateurs, de la paie et des flux administratifs en entreprise.
-
-### 🏛️ [CivicEye](https://github.com/BenKL404/civiceye)
-> **Stack: React, Node.js, Prisma** > Plateforme citoyenne permettant de signaler et suivre la résolution d'incidents urbains auprès des autorités locales.
-
----
-
-## 📊 Analytics & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BenKL404&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=BenKL404&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenKL404&theme=radical&hide_border=true&background=0D1117" width="48%" />
-</div>
-
----
-
-## ✅ Expertise for Hire | Freelance
-Besoin d'un expert pour transformer une idée en produit fonctionnel ?  
-👉 **Applications de gestion (Admin Dashboards)** 👉 **Architecture d'APIs robustes** 👉 **Applications Mobiles Cross-platform (Flutter)** ---
-
-## 📫 Connect with me
-
-<div align="center">
-  <a href="mailto:lkinglben@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lkinglben@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,flutter,dart&theme=dark" alt="Frontend & Mobile" />
   </a>
-  <a href="https://www.linkedin.com/in/kokou-bernard-kpedzi-b47b2418a">
-    <img src="https://img.shields.io/badge/LinkedIn-Kokou_Bernard_Kpedzi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,python,postgres,mongodb&theme=dark" alt="Backend & DB" />
   </a>
-  <a href="https://benlk404.dev">
-    <img src="https://img.shields.io/badge/Portfolio-benlk404.dev-2563EB?style=for-the-badge&logo=globe&logoColor=white" />
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,nginx,linux,postman,git&theme=dark" alt="DevOps & Tools" />
   </a>
 </div>
 
-<br/>
+---
+
+### 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="200" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BENLK404&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophées GitHub" />
+  <br/><br/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=BENLK404&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777&icon_color=38B2AC" alt="Statistiques" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENLK404&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=777777" alt="Langages" />
+      </td>
+    </tr>
+  </table>
 </div>
