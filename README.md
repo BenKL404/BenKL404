@@ -97,7 +97,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/BenKL404/lk-seller" target="_blank">
+  <a href="https://e-commerce.kpedzibernard.workers.dev" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-SELLER&fontSize=35&fontColor=ffffff&desc=Solution%20de%20Point%20de%20Vente%20(POS)%20et%20Stocks&descAlignY=65&stroke=FF9800&strokeWidth=2" width="100%" alt="LK-SELLER Banner"/>
   </a>
   <p align="left">
@@ -111,7 +111,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/BenKL404/lk-immo" target="_blank">
+  <a href="https://lk-immo.vercel.app/" target="_blank">
     <img src="./assets/lkimmo.png" width="100%" alt="LK-IMMO Premium UI Mockup"/>
   </a>
   <p align="left">
