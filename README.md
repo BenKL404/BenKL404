@@ -153,7 +153,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/BenKL404/urgencevie" target="_blank">
+  <a href="https://lk-seller.vercel.app/" target="_blank">
     <img src="./assets/urgencevie.png" width="100%" alt="UrgenceVie Mobile Mockup"/>
   </a>
   <p align="left">
