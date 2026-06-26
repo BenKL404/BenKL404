@@ -69,7 +69,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/BenKL404/lk-fondation" target="_blank">
+  <a href="https://lkfondation.com" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&text=LK-FONDATION&fontSize=35&fontColor=ffffff&desc=Services%20Informatiques%20et%20Logiciels%20Professionnels&descAlignY=65&stroke=2563EB&strokeWidth=2" width="100%" alt="LK-FONDATION Banner"/>
   </a>
   <p align="left">
