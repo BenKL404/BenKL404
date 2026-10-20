@@ -68,6 +68,19 @@ Je conçois et je livre des logiciels complets, de l'analyse du besoin jusqu'à 
       <p>🌐 <a href="https://lk-immo.vercel.app/">lk-immo.vercel.app</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="./assets/loky.png" width="100%" alt="Loky - tableau de pilotage des statistiques de l'éducation (données fictives)"/>
+      <h3>Loky</h3>
+      <p>Application de bureau pour lire les statistiques de l'éducation sans être informaticien, sur une base PostgreSQL existante : tableau de pilotage, 71 indicateurs standards, audit de qualité des données, assistant IA texte → SQL et exports Excel, PDF, CSV. Toujours en lecture seule.</p>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+      <p>🔒 Code source privé · capture réalisée sur une base de démonstration fictive</p>
+    </td>
+  </tr>
 </table>
 
 ### Logiciels de bureau & open source
